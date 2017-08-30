@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   get 'plans/nbn'
 
-  get 'plans/data-only'
+  get 'plans/data_only'
 
   get 'pages/homepage'
 

@@ -5,6 +5,6 @@ class PlansController < ApplicationController
   def nbn
   end
 
-  def data-only
+  def data_only
   end
 end
