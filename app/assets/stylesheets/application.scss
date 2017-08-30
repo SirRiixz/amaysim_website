@@ -1,0 +1,54 @@
+@import "bootstrap";
+
+body {
+  font-family: "MarkOT",sans-serif;
+}
+
+// All White
+.bg-white {
+  border: solid;
+  border-color: #FFFFFF;
+  height: 60px;
+  width: 1280px;
+}
+
+.white-container-fluid {
+  background-color: #FFFFFF;
+}
+
+.justify-content-end {
+  margin-left: 1000px;
+}
+
+
+// All Orange
+.bg-orange {
+  border: solid;
+  border-color: #ff5500;
+}
+
+
+.orange-container-fluid {
+  background-color: #ff5500;
+  height: 100px;
+}
+
+
+// All Purple
+.bg-purple {
+  border: solid;
+  border-color: #510063;
+}
+
+.purple-container-fluid {
+  background-color: #510063;
+  height: 300px;
+  position: relative;
+}
+
+img {
+  margin-left: 800px;
+  height: 229.83px;
+  width: 345px;
+
+}
